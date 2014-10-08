@@ -1,0 +1,2 @@
+# Logfile created on 2014-03-28 09:47:59 -0400 by logger.rb/31641
+I, [2014-03-28T09:48:00.350512 #12712]  INFO -- : Found 70 unique color codes

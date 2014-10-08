@@ -1,0 +1,391 @@
+# Logfile created on 2014-03-28 11:18:00 -0400 by logger.rb/31641
+I, [2014-03-28T11:18:25.629718 #4796]  INFO -- : orignal name = MJ01-LG-NA
+I, [2014-03-28T11:18:25.629718 #4796]  INFO -- : broken = MJ01 => LG => NA
+I, [2014-03-28T11:18:25.638719 #4796]  INFO -- : orignal name = MJ01-LG-NA_alt1
+I, [2014-03-28T11:18:25.638719 #4796]  INFO -- : broken = MJ01 => LG => NA => alt1
+I, [2014-03-28T11:18:25.645719 #4796]  INFO -- : orignal name = MJ02-XL-BK
+I, [2014-03-28T11:18:25.645719 #4796]  INFO -- : broken = MJ02 => XL => BK
+I, [2014-03-28T11:18:25.652720 #4796]  INFO -- : orignal name = MJ02-XL-BK_alt1
+I, [2014-03-28T11:18:25.652720 #4796]  INFO -- : broken = MJ02 => XL => BK => alt1
+I, [2014-03-28T11:18:25.659721 #4796]  INFO -- : orignal name = MJ02-XL-NA
+I, [2014-03-28T11:18:25.659721 #4796]  INFO -- : broken = MJ02 => XL => NA
+I, [2014-03-28T11:18:25.668722 #4796]  INFO -- : orignal name = MJ02-XL-NA_alt1
+I, [2014-03-28T11:18:25.668722 #4796]  INFO -- : broken = MJ02 => XL => NA => alt1
+I, [2014-03-28T11:18:25.674722 #4796]  INFO -- : orignal name = MJ02-XL-WT
+I, [2014-03-28T11:18:25.674722 #4796]  INFO -- : broken = MJ02 => XL => WT
+I, [2014-03-28T11:18:25.680723 #4796]  INFO -- : orignal name = MJ02-XL-WT_alt1
+I, [2014-03-28T11:18:25.680723 #4796]  INFO -- : broken = MJ02 => XL => WT => alt1
+I, [2014-03-28T11:18:25.686723 #4796]  INFO -- : orignal name = MJ03-ME-BR
+I, [2014-03-28T11:18:25.687724 #4796]  INFO -- : broken = MJ03 => ME => BR
+I, [2014-03-28T11:18:25.694724 #4796]  INFO -- : orignal name = MJ03-ME-BR_alt1
+I, [2014-03-28T11:18:25.694724 #4796]  INFO -- : broken = MJ03 => ME => BR => alt1
+I, [2014-03-28T11:18:25.702725 #4796]  INFO -- : orignal name = MJ04-LG-LB
+I, [2014-03-28T11:18:25.702725 #4796]  INFO -- : broken = MJ04 => LG => LB
+I, [2014-03-28T11:18:25.710726 #4796]  INFO -- : orignal name = MJ04-LG-LB_alt1
+I, [2014-03-28T11:18:25.710726 #4796]  INFO -- : broken = MJ04 => LG => LB => alt1
+I, [2014-03-28T11:18:25.718727 #4796]  INFO -- : orignal name = MJ04-SM-OR
+I, [2014-03-28T11:18:25.718727 #4796]  INFO -- : broken = MJ04 => SM => OR
+I, [2014-03-28T11:18:25.726727 #4796]  INFO -- : orignal name = MJ04-SM-OR_alt1
+I, [2014-03-28T11:18:25.726727 #4796]  INFO -- : broken = MJ04 => SM => OR => alt1
+I, [2014-03-28T11:18:25.734728 #4796]  INFO -- : orignal name = MJ06-ME-BL
+I, [2014-03-28T11:18:25.734728 #4796]  INFO -- : broken = MJ06 => ME => BL
+I, [2014-03-28T11:18:25.744729 #4796]  INFO -- : orignal name = MJ06-ME-BL_alt1
+I, [2014-03-28T11:18:25.744729 #4796]  INFO -- : broken = MJ06 => ME => BL => alt1
+I, [2014-03-28T11:18:25.755730 #4796]  INFO -- : orignal name = MS01-ME-BK
+I, [2014-03-28T11:18:25.755730 #4796]  INFO -- : broken = MS01 => ME => BK
+I, [2014-03-28T11:18:25.760731 #4796]  INFO -- : orignal name = MS01-ME-BK_alt1
+I, [2014-03-28T11:18:25.760731 #4796]  INFO -- : broken = MS01 => ME => BK => alt1
+I, [2014-03-28T11:18:25.767732 #4796]  INFO -- : orignal name = MS01-ME-GN
+I, [2014-03-28T11:18:25.767732 #4796]  INFO -- : broken = MS01 => ME => GN
+I, [2014-03-28T11:18:25.778733 #4796]  INFO -- : orignal name = MS01-ME-GN_alt1
+I, [2014-03-28T11:18:25.778733 #4796]  INFO -- : broken = MS01 => ME => GN => alt1
+I, [2014-03-28T11:18:25.788734 #4796]  INFO -- : orignal name = MS01-ME-NA
+I, [2014-03-28T11:18:25.788734 #4796]  INFO -- : broken = MS01 => ME => NA
+I, [2014-03-28T11:18:25.795734 #4796]  INFO -- : orignal name = MS01-ME-NA_alt1
+I, [2014-03-28T11:18:25.795734 #4796]  INFO -- : broken = MS01 => ME => NA => alt1
+I, [2014-03-28T11:18:25.802735 #4796]  INFO -- : orignal name = MS01-ME-SA
+I, [2014-03-28T11:18:25.802735 #4796]  INFO -- : broken = MS01 => ME => SA
+I, [2014-03-28T11:18:25.811736 #4796]  INFO -- : orignal name = MS01-ME-SA_alt1
+I, [2014-03-28T11:18:25.811736 #4796]  INFO -- : broken = MS01 => ME => SA => alt1
+I, [2014-03-28T11:18:25.827738 #4796]  INFO -- : orignal name = MS02-ME-GR
+I, [2014-03-28T11:18:25.827738 #4796]  INFO -- : broken = MS02 => ME => GR
+I, [2014-03-28T11:18:25.835738 #4796]  INFO -- : orignal name = MS02-ME-GR_alt1
+I, [2014-03-28T11:18:25.835738 #4796]  INFO -- : broken = MS02 => ME => GR => alt1
+I, [2014-03-28T11:18:25.844739 #4796]  INFO -- : orignal name = MS02-ME-WT
+I, [2014-03-28T11:18:25.844739 #4796]  INFO -- : broken = MS02 => ME => WT
+I, [2014-03-28T11:18:25.849740 #4796]  INFO -- : orignal name = MS02-ME-WT_alt1
+I, [2014-03-28T11:18:25.850740 #4796]  INFO -- : broken = MS02 => ME => WT => alt1
+I, [2014-03-28T11:18:25.856740 #4796]  INFO -- : orignal name = MS03-ME-BK
+I, [2014-03-28T11:18:25.856740 #4796]  INFO -- : broken = MS03 => ME => BK
+I, [2014-03-28T11:18:25.862741 #4796]  INFO -- : orignal name = MS03-ME-BK_alt1
+I, [2014-03-28T11:18:25.862741 #4796]  INFO -- : broken = MS03 => ME => BK => alt1
+I, [2014-03-28T11:18:25.866741 #4796]  INFO -- : orignal name = MS03-ME-GR
+I, [2014-03-28T11:18:25.866741 #4796]  INFO -- : broken = MS03 => ME => GR
+I, [2014-03-28T11:18:25.872742 #4796]  INFO -- : orignal name = MS03-ME-GR_alt1
+I, [2014-03-28T11:18:25.872742 #4796]  INFO -- : broken = MS03 => ME => GR => alt1
+I, [2014-03-28T11:18:25.879743 #4796]  INFO -- : orignal name = MS03-ME-RO
+I, [2014-03-28T11:18:25.879743 #4796]  INFO -- : broken = MS03 => ME => RO
+I, [2014-03-28T11:18:25.887744 #4796]  INFO -- : orignal name = MS03-ME-RO_alt1
+I, [2014-03-28T11:18:25.887744 #4796]  INFO -- : broken = MS03 => ME => RO => alt1
+I, [2014-03-28T11:18:25.894744 #4796]  INFO -- : orignal name = MS04-LG-BG
+I, [2014-03-28T11:18:25.894744 #4796]  INFO -- : broken = MS04 => LG => BG
+I, [2014-03-28T11:18:25.907746 #4796]  INFO -- : orignal name = MS04-LG-BG_alt1
+I, [2014-03-28T11:18:25.907746 #4796]  INFO -- : broken = MS04 => LG => BG => alt1
+I, [2014-03-28T11:18:25.915746 #4796]  INFO -- : orignal name = MS05-LG-BG
+I, [2014-03-28T11:18:25.915746 #4796]  INFO -- : broken = MS05 => LG => BG
+I, [2014-03-28T11:18:25.921747 #4796]  INFO -- : orignal name = MS05-LG-BG_alt1
+I, [2014-03-28T11:18:25.921747 #4796]  INFO -- : broken = MS05 => LG => BG => alt1
+I, [2014-03-28T11:18:25.927748 #4796]  INFO -- : orignal name = MS05-LG-WR
+I, [2014-03-28T11:18:25.927748 #4796]  INFO -- : broken = MS05 => LG => WR
+I, [2014-03-28T11:18:25.932748 #4796]  INFO -- : orignal name = MS05-LG-WR_alt1
+I, [2014-03-28T11:18:25.932748 #4796]  INFO -- : broken = MS05 => LG => WR => alt1
+I, [2014-03-28T11:18:25.938749 #4796]  INFO -- : orignal name = MS06-LG-WB
+I, [2014-03-28T11:18:25.938749 #4796]  INFO -- : broken = MS06 => LG => WB
+I, [2014-03-28T11:18:25.944749 #4796]  INFO -- : orignal name = MS06-LG-WB_alt1
+I, [2014-03-28T11:18:25.944749 #4796]  INFO -- : broken = MS06 => LG => WB => alt1
+I, [2014-03-28T11:18:25.950750 #4796]  INFO -- : orignal name = MS06-ME-LL
+I, [2014-03-28T11:18:25.950750 #4796]  INFO -- : broken = MS06 => ME => LL
+I, [2014-03-28T11:18:25.960751 #4796]  INFO -- : orignal name = MS06-ME-LL_alt1
+I, [2014-03-28T11:18:25.960751 #4796]  INFO -- : broken = MS06 => ME => LL => alt1
+I, [2014-03-28T11:18:25.969752 #4796]  INFO -- : orignal name = MS06-ME-LR
+I, [2014-03-28T11:18:25.969752 #4796]  INFO -- : broken = MS06 => ME => LR
+I, [2014-03-28T11:18:25.982753 #4796]  INFO -- : orignal name = MS06-ME-LR_alt1
+I, [2014-03-28T11:18:25.982753 #4796]  INFO -- : broken = MS06 => ME => LR => alt1
+I, [2014-03-28T11:18:25.992754 #4796]  INFO -- : orignal name = MS07-ME-BU
+I, [2014-03-28T11:18:25.992754 #4796]  INFO -- : broken = MS07 => ME => BU
+I, [2014-03-28T11:18:25.999755 #4796]  INFO -- : orignal name = MS07-ME-BU_alt1
+I, [2014-03-28T11:18:25.999755 #4796]  INFO -- : broken = MS07 => ME => BU => alt1
+I, [2014-03-28T11:18:26.007756 #4796]  INFO -- : orignal name = MS07-ME-GA
+I, [2014-03-28T11:18:26.007756 #4796]  INFO -- : broken = MS07 => ME => GA
+I, [2014-03-28T11:18:26.020757 #4796]  INFO -- : orignal name = MS07-ME-GA_alt1
+I, [2014-03-28T11:18:26.021757 #4796]  INFO -- : broken = MS07 => ME => GA => alt1
+I, [2014-03-28T11:18:26.034758 #4796]  INFO -- : orignal name = MS08-ME-BK
+I, [2014-03-28T11:18:26.034758 #4796]  INFO -- : broken = MS08 => ME => BK
+I, [2014-03-28T11:18:26.040759 #4796]  INFO -- : orignal name = MS08-ME-BK_alt1
+I, [2014-03-28T11:18:26.040759 #4796]  INFO -- : broken = MS08 => ME => BK => alt1
+I, [2014-03-28T11:18:26.046759 #4796]  INFO -- : orignal name = MS09-XL-BG
+I, [2014-03-28T11:18:26.046759 #4796]  INFO -- : broken = MS09 => XL => BG
+I, [2014-03-28T11:18:26.055760 #4796]  INFO -- : orignal name = MS09-XL-BG_alt1
+I, [2014-03-28T11:18:26.055760 #4796]  INFO -- : broken = MS09 => XL => BG => alt1
+I, [2014-03-28T11:18:26.068762 #4796]  INFO -- : orignal name = MS10-ME-BK
+I, [2014-03-28T11:18:26.068762 #4796]  INFO -- : broken = MS10 => ME => BK
+I, [2014-03-28T11:18:26.074762 #4796]  INFO -- : orignal name = MS10-ME-BK_alt1
+I, [2014-03-28T11:18:26.074762 #4796]  INFO -- : broken = MS10 => ME => BK => alt1
+I, [2014-03-28T11:18:26.079763 #4796]  INFO -- : orignal name = MS10-ME-NA
+I, [2014-03-28T11:18:26.079763 #4796]  INFO -- : broken = MS10 => ME => NA
+I, [2014-03-28T11:18:26.086763 #4796]  INFO -- : orignal name = MS10-ME-NA_alt1
+I, [2014-03-28T11:18:26.086763 #4796]  INFO -- : broken = MS10 => ME => NA => alt1
+I, [2014-03-28T11:18:26.094764 #4796]  INFO -- : orignal name = MS11-XL-RN
+I, [2014-03-28T11:18:26.094764 #4796]  INFO -- : broken = MS11 => XL => RN
+I, [2014-03-28T11:18:26.102765 #4796]  INFO -- : orignal name = MS11-XL-RN_alt1
+I, [2014-03-28T11:18:26.102765 #4796]  INFO -- : broken = MS11 => XL => RN => alt1
+I, [2014-03-28T11:18:26.111766 #4796]  INFO -- : orignal name = MS12-ME-OR
+I, [2014-03-28T11:18:26.111766 #4796]  INFO -- : broken = MS12 => ME => OR
+I, [2014-03-28T11:18:26.125767 #4796]  INFO -- : orignal name = MS12-ME-OR_alt1
+I, [2014-03-28T11:18:26.125767 #4796]  INFO -- : broken = MS12 => ME => OR => alt1
+I, [2014-03-28T11:18:26.141769 #4796]  INFO -- : orignal name = MS13-ME-NA
+I, [2014-03-28T11:18:26.141769 #4796]  INFO -- : broken = MS13 => ME => NA
+I, [2014-03-28T11:18:26.156770 #4796]  INFO -- : orignal name = MS13-ME-NA_alt1
+I, [2014-03-28T11:18:26.156770 #4796]  INFO -- : broken = MS13 => ME => NA => alt1
+I, [2014-03-28T11:18:26.164771 #4796]  INFO -- : orignal name = MS13-ME-PU
+I, [2014-03-28T11:18:26.164771 #4796]  INFO -- : broken = MS13 => ME => PU
+I, [2014-03-28T11:18:26.172772 #4796]  INFO -- : orignal name = MS13-ME-PU_alt1
+I, [2014-03-28T11:18:26.172772 #4796]  INFO -- : broken = MS13 => ME => PU => alt1
+I, [2014-03-28T11:18:26.181773 #4796]  INFO -- : orignal name = MS13-ME-YE
+I, [2014-03-28T11:18:26.181773 #4796]  INFO -- : broken = MS13 => ME => YE
+I, [2014-03-28T11:18:26.190774 #4796]  INFO -- : orignal name = MS13-ME-YE_alt1
+I, [2014-03-28T11:18:26.190774 #4796]  INFO -- : broken = MS13 => ME => YE => alt1
+I, [2014-03-28T11:18:26.197775 #4796]  INFO -- : orignal name = MS14-ME-GN
+I, [2014-03-28T11:18:26.197775 #4796]  INFO -- : broken = MS14 => ME => GN
+I, [2014-03-28T11:18:26.208776 #4796]  INFO -- : orignal name = MS14-ME-GN_alt1
+I, [2014-03-28T11:18:26.208776 #4796]  INFO -- : broken = MS14 => ME => GN => alt1
+I, [2014-03-28T11:18:26.219777 #4796]  INFO -- : orignal name = MS15-LG-BK
+I, [2014-03-28T11:18:26.219777 #4796]  INFO -- : broken = MS15 => LG => BK
+I, [2014-03-28T11:18:26.225777 #4796]  INFO -- : orignal name = MS15-LG-BK_alt1
+I, [2014-03-28T11:18:26.225777 #4796]  INFO -- : broken = MS15 => LG => BK => alt1
+I, [2014-03-28T11:18:26.232778 #4796]  INFO -- : orignal name = MS16-ME-BL
+I, [2014-03-28T11:18:26.232778 #4796]  INFO -- : broken = MS16 => ME => BL
+I, [2014-03-28T11:18:26.240779 #4796]  INFO -- : orignal name = MS16-ME-BL_alt1
+I, [2014-03-28T11:18:26.240779 #4796]  INFO -- : broken = MS16 => ME => BL => alt1
+I, [2014-03-28T11:18:26.248780 #4796]  INFO -- : orignal name = WJ01-ME-LB
+I, [2014-03-28T11:18:26.248780 #4796]  INFO -- : broken = WJ01 => ME => LB
+I, [2014-03-28T11:18:26.259781 #4796]  INFO -- : orignal name = WJ01-ME-LB_alt1
+I, [2014-03-28T11:18:26.259781 #4796]  INFO -- : broken = WJ01 => ME => LB => alt1
+I, [2014-03-28T11:18:26.275782 #4796]  INFO -- : orignal name = WJ02-SM-HG
+I, [2014-03-28T11:18:26.275782 #4796]  INFO -- : broken = WJ02 => SM => HG
+I, [2014-03-28T11:18:26.290784 #4796]  INFO -- : orignal name = WJ02-SM-HG_alt1
+I, [2014-03-28T11:18:26.290784 #4796]  INFO -- : broken = WJ02 => SM => HG => alt1
+I, [2014-03-28T11:18:26.309786 #4796]  INFO -- : orignal name = WJ03-SM-ST
+I, [2014-03-28T11:18:26.309786 #4796]  INFO -- : broken = WJ03 => SM => ST
+I, [2014-03-28T11:18:26.319787 #4796]  INFO -- : orignal name = WJ03-SM-ST_alt1
+I, [2014-03-28T11:18:26.319787 #4796]  INFO -- : broken = WJ03 => SM => ST => alt1
+I, [2014-03-28T11:18:26.328788 #4796]  INFO -- : orignal name = WJ04-SM-GB
+I, [2014-03-28T11:18:26.328788 #4796]  INFO -- : broken = WJ04 => SM => GB
+I, [2014-03-28T11:18:26.340789 #4796]  INFO -- : orignal name = WJ04-SM-GB_alt1
+I, [2014-03-28T11:18:26.340789 #4796]  INFO -- : broken = WJ04 => SM => GB => alt1
+I, [2014-03-28T11:18:26.354790 #4796]  INFO -- : orignal name = WJ05-LG-BK
+I, [2014-03-28T11:18:26.354790 #4796]  INFO -- : broken = WJ05 => LG => BK
+I, [2014-03-28T11:18:26.360791 #4796]  INFO -- : orignal name = WJ05-LG-BK_alt1
+I, [2014-03-28T11:18:26.361791 #4796]  INFO -- : broken = WJ05 => LG => BK => alt1
+I, [2014-03-28T11:18:26.367792 #4796]  INFO -- : orignal name = WJ06-SM-PB
+I, [2014-03-28T11:18:26.367792 #4796]  INFO -- : broken = WJ06 => SM => PB
+I, [2014-03-28T11:18:26.375792 #4796]  INFO -- : orignal name = WJ06-SM-PB_alt1
+I, [2014-03-28T11:18:26.376792 #4796]  INFO -- : broken = WJ06 => SM => PB => alt1
+I, [2014-03-28T11:18:26.384793 #4796]  INFO -- : orignal name = WJ06-SM-PG
+I, [2014-03-28T11:18:26.384793 #4796]  INFO -- : broken = WJ06 => SM => PG
+I, [2014-03-28T11:18:26.392794 #4796]  INFO -- : orignal name = WJ06-SM-PG_alt1
+I, [2014-03-28T11:18:26.392794 #4796]  INFO -- : broken = WJ06 => SM => PG => alt1
+I, [2014-03-28T11:18:26.401795 #4796]  INFO -- : orignal name = WJ07-ME-RC
+I, [2014-03-28T11:18:26.401795 #4796]  INFO -- : broken = WJ07 => ME => RC
+I, [2014-03-28T11:18:26.411796 #4796]  INFO -- : orignal name = WJ07-ME-RC_alt1
+I, [2014-03-28T11:18:26.411796 #4796]  INFO -- : broken = WJ07 => ME => RC => alt1
+I, [2014-03-28T11:18:26.420797 #4796]  INFO -- : orignal name = WS01-SM-BK
+I, [2014-03-28T11:18:26.420797 #4796]  INFO -- : broken = WS01 => SM => BK
+I, [2014-03-28T11:18:26.426797 #4796]  INFO -- : orignal name = WS01-SM-BK_alt1
+I, [2014-03-28T11:18:26.426797 #4796]  INFO -- : broken = WS01 => SM => BK => alt1
+I, [2014-03-28T11:18:26.432798 #4796]  INFO -- : orignal name = WS01-SM-GR
+I, [2014-03-28T11:18:26.432798 #4796]  INFO -- : broken = WS01 => SM => GR
+I, [2014-03-28T11:18:26.441799 #4796]  INFO -- : orignal name = WS01-SM-GR_alt1
+I, [2014-03-28T11:18:26.441799 #4796]  INFO -- : broken = WS01 => SM => GR => alt1
+I, [2014-03-28T11:18:26.450800 #4796]  INFO -- : orignal name = WS01-SM-RO
+I, [2014-03-28T11:18:26.450800 #4796]  INFO -- : broken = WS01 => SM => RO
+I, [2014-03-28T11:18:26.458801 #4796]  INFO -- : orignal name = WS01-SM-RO_alt1
+I, [2014-03-28T11:18:26.458801 #4796]  INFO -- : broken = WS01 => SM => RO => alt1
+I, [2014-03-28T11:18:26.466801 #4796]  INFO -- : orignal name = WS02-ME-GY
+I, [2014-03-28T11:18:26.466801 #4796]  INFO -- : broken = WS02 => ME => GY
+I, [2014-03-28T11:18:26.474802 #4796]  INFO -- : orignal name = WS02-ME-GY_alt1
+I, [2014-03-28T11:18:26.475802 #4796]  INFO -- : broken = WS02 => ME => GY => alt1
+I, [2014-03-28T11:18:26.483803 #4796]  INFO -- : orignal name = WS03-ME-BG
+I, [2014-03-28T11:18:26.483803 #4796]  INFO -- : broken = WS03 => ME => BG
+I, [2014-03-28T11:18:26.489804 #4796]  INFO -- : orignal name = WS03-ME-BG_alt1
+I, [2014-03-28T11:18:26.490804 #4796]  INFO -- : broken = WS03 => ME => BG => alt1
+I, [2014-03-28T11:18:26.503805 #4796]  INFO -- : orignal name = WS04-ME-BB
+I, [2014-03-28T11:18:26.503805 #4796]  INFO -- : broken = WS04 => ME => BB
+I, [2014-03-28T11:18:26.510806 #4796]  INFO -- : orignal name = WS04-ME-BB_alt1
+I, [2014-03-28T11:18:26.510806 #4796]  INFO -- : broken = WS04 => ME => BB => alt1
+I, [2014-03-28T11:18:26.517807 #4796]  INFO -- : orignal name = WS05-SM-BK
+I, [2014-03-28T11:18:26.518807 #4796]  INFO -- : broken = WS05 => SM => BK
+I, [2014-03-28T11:18:26.523807 #4796]  INFO -- : orignal name = WS05-SM-BK_alt1
+I, [2014-03-28T11:18:26.523807 #4796]  INFO -- : broken = WS05 => SM => BK => alt1
+I, [2014-03-28T11:18:26.529808 #4796]  INFO -- : orignal name = WS05-SM-NA
+I, [2014-03-28T11:18:26.529808 #4796]  INFO -- : broken = WS05 => SM => NA
+I, [2014-03-28T11:18:26.538809 #4796]  INFO -- : orignal name = WS05-SM-NA_alt1
+I, [2014-03-28T11:18:26.538809 #4796]  INFO -- : broken = WS05 => SM => NA => alt1
+I, [2014-03-28T11:18:26.545809 #4796]  INFO -- : orignal name = WS06-ME-BK
+I, [2014-03-28T11:18:26.545809 #4796]  INFO -- : broken = WS06 => ME => BK
+I, [2014-03-28T11:18:26.551810 #4796]  INFO -- : orignal name = WS06-ME-BK_alt1
+I, [2014-03-28T11:18:26.551810 #4796]  INFO -- : broken = WS06 => ME => BK => alt1
+I, [2014-03-28T11:18:26.557811 #4796]  INFO -- : orignal name = WS07-LG-OR
+I, [2014-03-28T11:18:26.557811 #4796]  INFO -- : broken = WS07 => LG => OR
+I, [2014-03-28T11:18:26.564811 #4796]  INFO -- : orignal name = WS07-LG-OR_alt1
+I, [2014-03-28T11:18:26.564811 #4796]  INFO -- : broken = WS07 => LG => OR => alt1
+I, [2014-03-28T11:18:26.572812 #4796]  INFO -- : orignal name = WS08-ME-PI
+I, [2014-03-28T11:18:26.572812 #4796]  INFO -- : broken = WS08 => ME => PI
+I, [2014-03-28T11:18:26.589814 #4796]  INFO -- : orignal name = WS08-ME-PI_alt1
+I, [2014-03-28T11:18:26.590814 #4796]  INFO -- : broken = WS08 => ME => PI => alt1
+I, [2014-03-28T11:18:26.616816 #4796]  INFO -- : orignal name = WS09-ME-CO
+I, [2014-03-28T11:18:26.616816 #4796]  INFO -- : broken = WS09 => ME => CO
+I, [2014-03-28T11:18:26.627818 #4796]  INFO -- : orignal name = WS09-ME-CO_alt1
+I, [2014-03-28T11:18:26.627818 #4796]  INFO -- : broken = WS09 => ME => CO => alt1
+I, [2014-03-28T11:18:26.639819 #4796]  INFO -- : orignal name = WS09-SM-BH
+I, [2014-03-28T11:18:26.639819 #4796]  INFO -- : broken = WS09 => SM => BH
+I, [2014-03-28T11:18:26.652820 #4796]  INFO -- : orignal name = WS09-SM-BH_alt1
+I, [2014-03-28T11:18:26.652820 #4796]  INFO -- : broken = WS09 => SM => BH => alt1
+I, [2014-03-28T11:18:26.667822 #4796]  INFO -- : orignal name = WS10-SM-BG
+I, [2014-03-28T11:18:26.667822 #4796]  INFO -- : broken = WS10 => SM => BG
+I, [2014-03-28T11:18:26.672822 #4796]  INFO -- : orignal name = WS10-SM-BG_alt1
+I, [2014-03-28T11:18:26.672822 #4796]  INFO -- : broken = WS10 => SM => BG => alt1
+I, [2014-03-28T11:18:26.677823 #4796]  INFO -- : orignal name = WS11-LG-LI
+I, [2014-03-28T11:18:26.677823 #4796]  INFO -- : broken = WS11 => LG => LI
+I, [2014-03-28T11:18:26.684823 #4796]  INFO -- : orignal name = WS11-LG-LI_alt1
+I, [2014-03-28T11:18:26.684823 #4796]  INFO -- : broken = WS11 => LG => LI => alt1
+I, [2014-03-28T11:18:26.690824 #4796]  INFO -- : orignal name = WS11-SM-WT
+I, [2014-03-28T11:18:26.690824 #4796]  INFO -- : broken = WS11 => SM => WT
+I, [2014-03-28T11:18:26.695824 #4796]  INFO -- : orignal name = WS11-SM-WT_alt1
+I, [2014-03-28T11:18:26.695824 #4796]  INFO -- : broken = WS11 => SM => WT => alt1
+I, [2014-03-28T11:18:26.700825 #4796]  INFO -- : orignal name = WS12-ME-GN
+I, [2014-03-28T11:18:26.700825 #4796]  INFO -- : broken = WS12 => ME => GN
+I, [2014-03-28T11:18:26.712826 #4796]  INFO -- : orignal name = WS12-ME-GN_alt1
+I, [2014-03-28T11:18:26.712826 #4796]  INFO -- : broken = WS12 => ME => GN => alt1
+I, [2014-03-28T11:18:26.725827 #4796]  INFO -- : orignal name = WS13-LG-BN
+I, [2014-03-28T11:18:26.725827 #4796]  INFO -- : broken = WS13 => LG => BN
+I, [2014-03-28T11:18:26.732828 #4796]  INFO -- : orignal name = WS13-LG-BN_alt1
+I, [2014-03-28T11:18:26.732828 #4796]  INFO -- : broken = WS13 => LG => BN => alt1
+I, [2014-03-28T11:18:26.739829 #4796]  INFO -- : orignal name = WS13-ME-GB
+I, [2014-03-28T11:18:26.740829 #4796]  INFO -- : broken = WS13 => ME => GB
+I, [2014-03-28T11:18:26.802835 #4796]  INFO -- : orignal name = WS13-ME-GB_alt1
+I, [2014-03-28T11:18:26.802835 #4796]  INFO -- : broken = WS13 => ME => GB => alt1
+I, [2014-03-28T11:18:26.829838 #4796]  INFO -- : orignal name = WS13-SM-EB
+I, [2014-03-28T11:18:26.829838 #4796]  INFO -- : broken = WS13 => SM => EB
+I, [2014-03-28T11:18:26.857841 #4796]  INFO -- : orignal name = WS13-SM-EB_alt1
+I, [2014-03-28T11:18:26.857841 #4796]  INFO -- : broken = WS13 => SM => EB => alt1
+I, [2014-03-28T11:18:26.912846 #4796]  INFO -- : orignal name = MJ01-LG-NA_sw
+I, [2014-03-28T11:18:26.912846 #4796]  INFO -- : broken = MJ01 => LG => NA => sw
+I, [2014-03-28T11:18:26.914846 #4796]  INFO -- : orignal name = MJ02-XL-BK_sw
+I, [2014-03-28T11:18:26.914846 #4796]  INFO -- : broken = MJ02 => XL => BK => sw
+I, [2014-03-28T11:18:26.918847 #4796]  INFO -- : orignal name = MJ02-XL-NA_sw
+I, [2014-03-28T11:18:26.918847 #4796]  INFO -- : broken = MJ02 => XL => NA => sw
+I, [2014-03-28T11:18:26.920847 #4796]  INFO -- : orignal name = MJ02-XL-WT_sw
+I, [2014-03-28T11:18:26.921847 #4796]  INFO -- : broken = MJ02 => XL => WT => sw
+I, [2014-03-28T11:18:26.923847 #4796]  INFO -- : orignal name = MJ03-ME-BR_sw
+I, [2014-03-28T11:18:26.923847 #4796]  INFO -- : broken = MJ03 => ME => BR => sw
+I, [2014-03-28T11:18:26.925847 #4796]  INFO -- : orignal name = MJ04-LG-LB_sw
+I, [2014-03-28T11:18:26.925847 #4796]  INFO -- : broken = MJ04 => LG => LB => sw
+I, [2014-03-28T11:18:26.927848 #4796]  INFO -- : orignal name = MJ04-SM-OR_sw
+I, [2014-03-28T11:18:26.928848 #4796]  INFO -- : broken = MJ04 => SM => OR => sw
+I, [2014-03-28T11:18:26.930848 #4796]  INFO -- : orignal name = MJ06-ME-BL_sw
+I, [2014-03-28T11:18:26.930848 #4796]  INFO -- : broken = MJ06 => ME => BL => sw
+I, [2014-03-28T11:18:26.932848 #4796]  INFO -- : orignal name = MS01-ME-BK_sw
+I, [2014-03-28T11:18:26.932848 #4796]  INFO -- : broken = MS01 => ME => BK => sw
+I, [2014-03-28T11:18:26.937849 #4796]  INFO -- : orignal name = MS01-ME-GN_sw
+I, [2014-03-28T11:18:26.937849 #4796]  INFO -- : broken = MS01 => ME => GN => sw
+I, [2014-03-28T11:18:26.939849 #4796]  INFO -- : orignal name = MS01-ME-NA_sw
+I, [2014-03-28T11:18:26.939849 #4796]  INFO -- : broken = MS01 => ME => NA => sw
+I, [2014-03-28T11:18:26.941849 #4796]  INFO -- : orignal name = MS01-ME-SA_sw
+I, [2014-03-28T11:18:26.941849 #4796]  INFO -- : broken = MS01 => ME => SA => sw
+I, [2014-03-28T11:18:26.943849 #4796]  INFO -- : orignal name = MS02-ME-GR_sw
+I, [2014-03-28T11:18:26.943849 #4796]  INFO -- : broken = MS02 => ME => GR => sw
+I, [2014-03-28T11:18:26.945849 #4796]  INFO -- : orignal name = MS02-ME-WT_sw
+I, [2014-03-28T11:18:26.945849 #4796]  INFO -- : broken = MS02 => ME => WT => sw
+I, [2014-03-28T11:18:26.947850 #4796]  INFO -- : orignal name = MS03-ME-BK_sw
+I, [2014-03-28T11:18:26.947850 #4796]  INFO -- : broken = MS03 => ME => BK => sw
+I, [2014-03-28T11:18:26.950850 #4796]  INFO -- : orignal name = MS03-ME-GR_sw
+I, [2014-03-28T11:18:26.950850 #4796]  INFO -- : broken = MS03 => ME => GR => sw
+I, [2014-03-28T11:18:26.952850 #4796]  INFO -- : orignal name = MS03-ME-RO_sw
+I, [2014-03-28T11:18:26.953850 #4796]  INFO -- : broken = MS03 => ME => RO => sw
+I, [2014-03-28T11:18:26.955850 #4796]  INFO -- : orignal name = MS04-LG-BG_sw
+I, [2014-03-28T11:18:26.955850 #4796]  INFO -- : broken = MS04 => LG => BG => sw
+I, [2014-03-28T11:18:26.957851 #4796]  INFO -- : orignal name = MS05-LG-BG_sw
+I, [2014-03-28T11:18:26.957851 #4796]  INFO -- : broken = MS05 => LG => BG => sw
+I, [2014-03-28T11:18:26.959851 #4796]  INFO -- : orignal name = MS05-LG-WR_sw
+I, [2014-03-28T11:18:26.959851 #4796]  INFO -- : broken = MS05 => LG => WR => sw
+I, [2014-03-28T11:18:26.961851 #4796]  INFO -- : orignal name = MS06-LG-WB_sw
+I, [2014-03-28T11:18:26.961851 #4796]  INFO -- : broken = MS06 => LG => WB => sw
+I, [2014-03-28T11:18:26.963851 #4796]  INFO -- : orignal name = MS06-ME-LL_sw
+I, [2014-03-28T11:18:26.963851 #4796]  INFO -- : broken = MS06 => ME => LL => sw
+I, [2014-03-28T11:18:26.966851 #4796]  INFO -- : orignal name = MS06-ME-LR_sw
+I, [2014-03-28T11:18:26.966851 #4796]  INFO -- : broken = MS06 => ME => LR => sw
+I, [2014-03-28T11:18:26.968852 #4796]  INFO -- : orignal name = MS07-ME-BU_sw
+I, [2014-03-28T11:18:26.968852 #4796]  INFO -- : broken = MS07 => ME => BU => sw
+I, [2014-03-28T11:18:26.970852 #4796]  INFO -- : orignal name = MS07-ME-GA_sw
+I, [2014-03-28T11:18:26.970852 #4796]  INFO -- : broken = MS07 => ME => GA => sw
+I, [2014-03-28T11:18:26.973852 #4796]  INFO -- : orignal name = MS08-ME-BK_sw
+I, [2014-03-28T11:18:26.974852 #4796]  INFO -- : broken = MS08 => ME => BK => sw
+I, [2014-03-28T11:18:26.976852 #4796]  INFO -- : orignal name = MS09-XL-BG_sw
+I, [2014-03-28T11:18:26.976852 #4796]  INFO -- : broken = MS09 => XL => BG => sw
+I, [2014-03-28T11:18:26.978853 #4796]  INFO -- : orignal name = MS10-ME-BK_sw
+I, [2014-03-28T11:18:26.978853 #4796]  INFO -- : broken = MS10 => ME => BK => sw
+I, [2014-03-28T11:18:26.980853 #4796]  INFO -- : orignal name = MS10-ME-NA_sw
+I, [2014-03-28T11:18:26.980853 #4796]  INFO -- : broken = MS10 => ME => NA => sw
+I, [2014-03-28T11:18:26.982853 #4796]  INFO -- : orignal name = MS11-XL-RN_sw
+I, [2014-03-28T11:18:26.982853 #4796]  INFO -- : broken = MS11 => XL => RN => sw
+I, [2014-03-28T11:18:26.984853 #4796]  INFO -- : orignal name = MS12-ME-OR_sw
+I, [2014-03-28T11:18:26.984853 #4796]  INFO -- : broken = MS12 => ME => OR => sw
+I, [2014-03-28T11:18:26.986853 #4796]  INFO -- : orignal name = MS13-ME-NA_sw
+I, [2014-03-28T11:18:26.986853 #4796]  INFO -- : broken = MS13 => ME => NA => sw
+I, [2014-03-28T11:18:26.988854 #4796]  INFO -- : orignal name = MS13-ME-PU_sw
+I, [2014-03-28T11:18:26.988854 #4796]  INFO -- : broken = MS13 => ME => PU => sw
+I, [2014-03-28T11:18:26.990854 #4796]  INFO -- : orignal name = MS13-ME-YE_sw
+I, [2014-03-28T11:18:26.990854 #4796]  INFO -- : broken = MS13 => ME => YE => sw
+I, [2014-03-28T11:18:26.993854 #4796]  INFO -- : orignal name = MS14-ME-GN_sw
+I, [2014-03-28T11:18:26.993854 #4796]  INFO -- : broken = MS14 => ME => GN => sw
+I, [2014-03-28T11:18:26.997855 #4796]  INFO -- : orignal name = MS15-LG-BK_sw
+I, [2014-03-28T11:18:26.997855 #4796]  INFO -- : broken = MS15 => LG => BK => sw
+I, [2014-03-28T11:18:27.000855 #4796]  INFO -- : orignal name = MS16-ME-BL_sw
+I, [2014-03-28T11:18:27.000855 #4796]  INFO -- : broken = MS16 => ME => BL => sw
+I, [2014-03-28T11:18:27.003855 #4796]  INFO -- : orignal name = WJ01-ME-LB_sw
+I, [2014-03-28T11:18:27.003855 #4796]  INFO -- : broken = WJ01 => ME => LB => sw
+I, [2014-03-28T11:18:27.006855 #4796]  INFO -- : orignal name = WJ02-SM-HG_sw
+I, [2014-03-28T11:18:27.006855 #4796]  INFO -- : broken = WJ02 => SM => HG => sw
+I, [2014-03-28T11:18:27.009856 #4796]  INFO -- : orignal name = WJ03-SM-ST_sw
+I, [2014-03-28T11:18:27.010856 #4796]  INFO -- : broken = WJ03 => SM => ST => sw
+I, [2014-03-28T11:18:27.013856 #4796]  INFO -- : orignal name = WJ04-SM-GB_sw
+I, [2014-03-28T11:18:27.013856 #4796]  INFO -- : broken = WJ04 => SM => GB => sw
+I, [2014-03-28T11:18:27.016856 #4796]  INFO -- : orignal name = WJ05-LG-BK_sw
+I, [2014-03-28T11:18:27.016856 #4796]  INFO -- : broken = WJ05 => LG => BK => sw
+I, [2014-03-28T11:18:27.022857 #4796]  INFO -- : orignal name = WJ06-SM-PB_sw
+I, [2014-03-28T11:18:27.022857 #4796]  INFO -- : broken = WJ06 => SM => PB => sw
+I, [2014-03-28T11:18:27.025857 #4796]  INFO -- : orignal name = WJ06-SM-PG_sw
+I, [2014-03-28T11:18:27.025857 #4796]  INFO -- : broken = WJ06 => SM => PG => sw
+I, [2014-03-28T11:18:27.028858 #4796]  INFO -- : orignal name = WJ07-ME-RC_sw
+I, [2014-03-28T11:18:27.028858 #4796]  INFO -- : broken = WJ07 => ME => RC => sw
+I, [2014-03-28T11:18:27.031858 #4796]  INFO -- : orignal name = WS01-SM-BK_sw
+I, [2014-03-28T11:18:27.031858 #4796]  INFO -- : broken = WS01 => SM => BK => sw
+I, [2014-03-28T11:18:27.034858 #4796]  INFO -- : orignal name = WS01-SM-GR_sw
+I, [2014-03-28T11:18:27.034858 #4796]  INFO -- : broken = WS01 => SM => GR => sw
+I, [2014-03-28T11:18:27.038859 #4796]  INFO -- : orignal name = WS01-SM-RO_sw
+I, [2014-03-28T11:18:27.038859 #4796]  INFO -- : broken = WS01 => SM => RO => sw
+I, [2014-03-28T11:18:27.041859 #4796]  INFO -- : orignal name = WS02-ME-GY_sw
+I, [2014-03-28T11:18:27.041859 #4796]  INFO -- : broken = WS02 => ME => GY => sw
+I, [2014-03-28T11:18:27.044859 #4796]  INFO -- : orignal name = WS03-ME-BG_sw
+I, [2014-03-28T11:18:27.044859 #4796]  INFO -- : broken = WS03 => ME => BG => sw
+I, [2014-03-28T11:18:27.047860 #4796]  INFO -- : orignal name = WS04-ME-BB_sw
+I, [2014-03-28T11:18:27.047860 #4796]  INFO -- : broken = WS04 => ME => BB => sw
+I, [2014-03-28T11:18:27.051860 #4796]  INFO -- : orignal name = WS05-SM-BK_sw
+I, [2014-03-28T11:18:27.051860 #4796]  INFO -- : broken = WS05 => SM => BK => sw
+I, [2014-03-28T11:18:27.054860 #4796]  INFO -- : orignal name = WS05-SM-NA_sw
+I, [2014-03-28T11:18:27.054860 #4796]  INFO -- : broken = WS05 => SM => NA => sw
+I, [2014-03-28T11:18:27.057861 #4796]  INFO -- : orignal name = WS06-ME-BK_sw
+I, [2014-03-28T11:18:27.057861 #4796]  INFO -- : broken = WS06 => ME => BK => sw
+I, [2014-03-28T11:18:27.060861 #4796]  INFO -- : orignal name = WS07-LG-OR_sw
+I, [2014-03-28T11:18:27.060861 #4796]  INFO -- : broken = WS07 => LG => OR => sw
+I, [2014-03-28T11:18:27.063861 #4796]  INFO -- : orignal name = WS08-ME-PI_sw
+I, [2014-03-28T11:18:27.063861 #4796]  INFO -- : broken = WS08 => ME => PI => sw
+I, [2014-03-28T11:18:27.066861 #4796]  INFO -- : orignal name = WS09-ME-CO_sw
+I, [2014-03-28T11:18:27.066861 #4796]  INFO -- : broken = WS09 => ME => CO => sw
+I, [2014-03-28T11:18:27.069862 #4796]  INFO -- : orignal name = WS09-SM-BH_sw
+I, [2014-03-28T11:18:27.070862 #4796]  INFO -- : broken = WS09 => SM => BH => sw
+I, [2014-03-28T11:18:27.072862 #4796]  INFO -- : orignal name = WS10-SM-BG_sw
+I, [2014-03-28T11:18:27.072862 #4796]  INFO -- : broken = WS10 => SM => BG => sw
+I, [2014-03-28T11:18:27.076862 #4796]  INFO -- : orignal name = WS11-LG-LI_sw
+I, [2014-03-28T11:18:27.076862 #4796]  INFO -- : broken = WS11 => LG => LI => sw
+I, [2014-03-28T11:18:27.079863 #4796]  INFO -- : orignal name = WS11-SM-WT_sw
+I, [2014-03-28T11:18:27.079863 #4796]  INFO -- : broken = WS11 => SM => WT => sw
+I, [2014-03-28T11:18:27.082863 #4796]  INFO -- : orignal name = WS12-ME-GN_sw
+I, [2014-03-28T11:18:27.082863 #4796]  INFO -- : broken = WS12 => ME => GN => sw
+I, [2014-03-28T11:18:27.085863 #4796]  INFO -- : orignal name = WS13-LG-BN_sw
+I, [2014-03-28T11:18:27.085863 #4796]  INFO -- : broken = WS13 => LG => BN => sw
+I, [2014-03-28T11:18:27.088864 #4796]  INFO -- : orignal name = WS13-ME-GB_sw
+I, [2014-03-28T11:18:27.088864 #4796]  INFO -- : broken = WS13 => ME => GB => sw
+I, [2014-03-28T11:18:27.091864 #4796]  INFO -- : orignal name = WS13-SM-EB_sw
+I, [2014-03-28T11:18:27.091864 #4796]  INFO -- : broken = WS13 => SM => EB => sw

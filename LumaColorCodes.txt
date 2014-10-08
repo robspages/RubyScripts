@@ -1,0 +1,71 @@
+code in item ID, color code, color description
+LTB, 12, Light Blue
+GRRD, 18, Gray
+NV, 5, Navy
+BKGN, 50, Black
+GR, 3, Gray
+LI, 15, Lime
+TE, 6, Teal
+BK, 2, Black
+RO, 52, Royal
+GN, 17, Green
+WTGR, 23, White
+SD, 14, Sand
+BKPI, 49, Black
+GRBK, 19, Gray
+PURD, 60, Purple
+PIBK, 55, Pink
+WTRO, 24, White
+SDGR, 43, Sand
+GRLTB, 22, Gray
+WTPU, 29, White
+BR, 11, Brown
+WTLI, 25, White
+WTBK, 27, White
+RBLI, 72, Royal Blue
+WT, 1, White
+LTBLI, 63, Light Blue
+TEGR, 34, Teal
+RD, 7, Red
+PI, 9, Pink
+RDWT, 59, Red
+TEBK, 33, Teal
+PULTB, 69, Purple
+BRBK, 54, Brown
+PIWT, 57, Pink
+PU, 13, Purple
+WTTE, 31, White
+BKGR, 47, Black
+PULI, 68, Purple
+LTBGR, 42, Light Blue
+GROR, 20, Gray
+GNGR, 65, Green
+BKRD, 48, Black
+OR, 10, Orange
+GRTE, 21, Gray
+BL, 16, Blush
+WTNV, 26, White
+ROGR, 52, Royal
+YL, 36, Yellow
+ORWT, 58, Orange
+LTBRO, 64, Light Blue
+PIGR, 56, Pink
+YLWT, 36, Yellow
+SDGN, 45, Sand
+SDBR, 44, Sand
+WTPI, 32, White
+GRYL, 71, Gray
+NVWT, 39, Navy
+LTBPU, 41, Light Blue
+BKRO, 46, Black
+BKTE, 51, Black
+NVGR, 38, Navy
+DO, 67, Dark Orange
+TEYL, 35, Teal
+WTYL, 30, White
+ROCO, 70, Royal
+NVRO, 37, Navy
+BRRD, 53, Brown
+RONV, 66, Royal
+LTBWT, 61, Light Blue
+LTBPI, 40, Light Blue

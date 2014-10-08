@@ -1,0 +1,71 @@
+Product ID Color code,Color ID,Color Description
+WT,1, White
+BK,2, Black
+GR,3, Gray
+NV,5, Navy
+TE,6, Teal
+RD,7, Red
+PI,9, Pink
+OR,10, Orange
+BR,11, Brown
+LTB,12, Light Blue
+PU,13, Purple
+SD,14, Sand
+LI,15, Lime
+BL,16, Blush
+GN,17, Green
+GRRD,18, Gray
+GRBK,19, Gray
+GROR,20, Gray
+GRTE,21, Gray
+GRLTB,22, Gray
+WTGR,23, White
+WTRO,24, White
+WTLI,25, White
+WTNV,26, White
+WTBK,27, White
+WTPU,29, White
+WTYL,30, White
+WTTE,31, White
+WTPI,32, White
+TEBK,33, Teal
+TEGR,34, Teal
+TEYL,35, Teal
+YL,36, Yellow
+YLWT,36, Yellow
+NVRO,37, Navy
+NVGR,38, Navy
+NVWT,39, Navy
+LTBPI,40, Light Blue
+LTBPU,41, Light Blue
+LTBGR,42, Light Blue
+SDGR,43, Sand
+SDBR,44, Sand
+SDGN,45, Sand
+BKRO,46, Black
+BKGR,47, Black
+BKRD,48, Black
+BKPI,49, Black
+BKGN,50, Black
+BKTE,51, Black
+RO,52, Royal
+ROGR,52, Royal
+BRRD,53, Brown
+BRBK,54, Brown
+PIBK,55, Pink
+PIGR,56, Pink
+PIWT,57, Pink
+ORWT,58, Orange
+RDWT,59, Red
+PURD,60, Purple
+LTBWT,61, Light Blue
+LTBLI,63, Light Blue
+LTBRO,64, Light Blue
+GNGR,65, Green
+RONV,66, Royal
+DO,67, Dark Orange
+PULI,68, Purple
+PULTB,69, Purple
+ROCO,70, Royal
+GRYL,71, Gray
+RBLI,72, Royal Blue
